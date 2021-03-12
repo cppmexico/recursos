@@ -15,4 +15,28 @@ Recursos en español para aprender a programar en C++.
 
 ## Videos
 
+| Título | Autores |
+|-|-|
+| [Programación en C++](https://www.youtube.com/watch?v=dJzLmjSJc2c&list=PLWtYZ2ejMVJlUu1rEHLC0i_oibctkl0Vh) | Alejandro Miguel Taboada Sanchez |
+
+
+## Blogs
+
+# Resources
+
+Resources in English to learn how to program in C ++.
+
+## Books
+
+### Video games development:
+
+
+## Videos
+
+| Título | Autores |
+|-|-|
+| [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) | The Cherno |
+|[Bjarne Stroustrup: Why the Programming Language C Is Obsolete Big Think](https://www.youtube.com/watch?v=KlPC3O1DVcg)|Bjarne Stroustrup|
+
+
 ## Blogs
