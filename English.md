@@ -69,3 +69,11 @@ Bisquit tiene muchos videos con temas relacoinados a C++ - [https://www.youtube.
 
 CppCast - [https://cppcast.com/](https://cppcast.com/)
 
+## Páginas de interés
+
+C++ reference, página de documentación muy confiable y con ejemplos - [https://en.cppreference.com/w/](https://en.cppreference.com/w/)
+
+C++ compiler support, página muy actualizada que dice que compiladores implementan cada versión de C++ - [https://en.cppreference.com/w/cpp/compiler_support](https://en.cppreference.com/w/cpp/compiler_support)
+
+Compiler Explorer, muestra el código en ensamblador producido, soporta muchos compiladores - [https://godbolt.org/](https://godbolt.org/)
+
