@@ -1,10 +1,14 @@
-# Resources.
+# Recursos en otros idiomas.
+
+Lista de recursos en otros idiomas.
+
+## Inglés.
 
 Lista de recursos en inglés.
 
-## Libros.
+### Libros.
 
-### Introductorios sin experiencia previa.
+#### Introductorios sin experiencia previa.
 
 - 
   C++ Primer - Stanley Lippman, Josée Lajoie, and Barbara E. Moo
@@ -12,7 +16,7 @@ Lista de recursos en inglés.
 - Programming: Principles and Practice Using C++ - Bjarne Stroustrup
 
 
-### Introductorios con experiencia previa en programación.
+#### Introductorios con experiencia previa en programación.
 
 - A Tour of C++ - Bjarne Stroustrup
 
@@ -21,7 +25,7 @@ Lista de recursos en inglés.
 
 Despues de aprender lo básico del lenguaje puedes leer libros sobre buenas practicas. Por ejemplo la serie Effective o la serie Exceptional.
 
-### Mejores practicas.
+#### Mejores practicas.
 
 - Effective C++ - Scott Meyers
 
@@ -36,7 +40,7 @@ Hay mas libros en estas series de Scott Meyers y Herb Sutter si también quieres
 
 También debes conocer mas a fondo la libreria estandar (STL) y conocer mejor algunas de las características como concurrencia y plantillas.
 
-### STL y más características.
+#### STL y más características.
 
 - The C++ Standard Library: A Tutorial and Reference - Nicolai M. Josuttis
 
@@ -47,7 +51,7 @@ También debes conocer mas a fondo la libreria estandar (STL) y conocer mejor al
 - C++ Templates: The Complete Guide - David Vandevoorde and Nicolai M. Josuttis
 
 
-## Canales de Youtube.
+#### Canales de Youtube.
 
 Los canales de las conferencias internacionales más grandes guardan los videos de las conferencias.
 
@@ -69,15 +73,30 @@ Algunos youtubers tienen canales muy enfocados a C++.
 - Bisquit tiene muchos videos con temas relacoinados a C++ - [https://www.youtube.com/c/Bisqwit](https://www.youtube.com/c/Bisqwit)
 
 
-## Podcasts.
+### Podcasts.
 
 - CppCast - [https://cppcast.com/](https://cppcast.com/)
 
 
-## Páginas de interés
+### Páginas de interés
 
 - C++ reference, página de documentación muy confiable y con ejemplos - [https://en.cppreference.com/w/](https://en.cppreference.com/w/)
 
 - C++ compiler support, página muy actualizada que dice que compiladores implementan cada versión de C++ - [https://en.cppreference.com/w/cpp/compiler_support](https://en.cppreference.com/w/cpp/compiler_support)
 
 - Compiler Explorer, muestra el código en ensamblador producido, soporta muchos compiladores - [https://godbolt.org/](https://godbolt.org/)
+
+## Francés.
+
+Lista de recursos en francés.
+
+### Libros.
+
+- C++ par la pratique (C++17) - Jean-Cédric Chappelier
+
+### Cursos.
+
+Los cursos se pueden auditar y tomar casi en su totalidad de forma gratuita. Los videos cuentan con subtítulos en inglés pero las diapositivas están completamente en francés.
+
+- Initiation à la programmation (en C++) - https://es.coursera.org/learn/initiation-programmation-cpp
+- Introduction à la programmation orientée objet (en C++) - https://es.coursera.org/learn/programmation-orientee-objet-cpp
