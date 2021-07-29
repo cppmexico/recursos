@@ -70,7 +70,7 @@ Algunos youtubers tienen canales muy enfocados a C++.
 
 - javidx9 tiene muchos videos con temas relacionados a C++ - [https://www.youtube.com/c/javidx9](https://www.youtube.com/c/javidx9)
 
-- Bisquit tiene muchos videos con temas relacoinados a C++ - [https://www.youtube.com/c/Bisqwit](https://www.youtube.com/c/Bisqwit)
+- Bisquit tiene muchos videos con temas relacionados a C++ - [https://www.youtube.com/c/Bisqwit](https://www.youtube.com/c/Bisqwit)
 
 
 ### Podcasts.
@@ -86,17 +86,3 @@ Algunos youtubers tienen canales muy enfocados a C++.
 
 - Compiler Explorer, muestra el código en ensamblador producido, soporta muchos compiladores - [https://godbolt.org/](https://godbolt.org/)
 
-## Francés.
-
-Lista de recursos en francés.
-
-### Libros.
-
-- C++ par la pratique (C++17) - Jean-Cédric Chappelier
-
-### Cursos.
-
-Los cursos se pueden auditar y tomar casi en su totalidad de forma gratuita. Los videos cuentan con subtítulos en inglés pero las diapositivas están completamente en francés.
-
-- Initiation à la programmation (en C++) - https://es.coursera.org/learn/initiation-programmation-cpp
-- Introduction à la programmation orientée objet (en C++) - https://es.coursera.org/learn/programmation-orientee-objet-cpp
