@@ -13,3 +13,6 @@ Tenemos una lista de recursos en inglés los cuales hemos probado personalmente 
 - [Tio](https://tio.run/)
 - [Ideone](https://ideone.com/)
 
+## Meetups de la comunidad.
+La comunidad de C++ México tiene reuniones regulares donde se discuten temas de interés.
+- [Índice de presentaciones](./Meetups/README.md)
