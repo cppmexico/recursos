@@ -72,6 +72,9 @@ Algunos youtubers tienen canales muy enfocados a C++.
 
 - Bisquit tiene muchos videos con temas relacionados a C++ - [https://www.youtube.com/c/Bisqwit](https://www.youtube.com/c/Bisqwit)
 
+- CodeBeauty tiene muchos videos con temas relacionados a C++ - [https://www.youtube.com/c/codebeauty](https://www.youtube.com/c/codebeauty)
+
+- Intro To Modern OpenGL Tutorial de thebennybox - [https://www.youtube.com/playlist?list=PLEETnX-uPtBXT9T-hD0Bj31DSnwio-ywh](https://www.youtube.com/playlist?list=PLEETnX-uPtBXT9T-hD0Bj31DSnwio-ywh)
 
 ### Podcasts.
 
@@ -86,3 +89,4 @@ Algunos youtubers tienen canales muy enfocados a C++.
 
 - Compiler Explorer, muestra el código en ensamblador producido, soporta muchos compiladores - [https://godbolt.org/](https://godbolt.org/)
 
+- cplusplus, página de documentación con ejemplos y tutoriales - [http://www.cplusplus.com/](http://www.cplusplus.com/)
